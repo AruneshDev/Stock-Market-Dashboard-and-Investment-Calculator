@@ -36,25 +36,21 @@ World_Model/
 📌 Installation
 
     Clone the repository:
-
-git clone https://github.com/yourusername/world_model.git
-
+```
+git clone https://github.com/yourusername/world_model.git](https://github.com/AruneshDev/Stock-Market-Dashboard-and-Investment-Calculator.git)
+```
 Navigate into the project folder:
-
+```
 cd world_model
-
-Install dependencies:
-
-    pip install -r requirements.txt
-
+```
 🚀 Usage
 
     Open Jupyter Notebook:
 
     jupyter notebook
-
+    ```
     Run World_Model.ipynb step by step to explore different world modeling techniques.
-
+    ```
 📌 Future Improvements
 
     Enhance deep learning models for better predictions.
