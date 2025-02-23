@@ -25,13 +25,11 @@ Live Tech Stock Heatmap
 (Sized by Market Cap & Colored by % Change)
 Investment Growth Comparison
 ![Live Stock Heatmap](./Investment_calculator.png)
+
 📂 Project Structure
 
 World_Model/
 │── World_Model.ipynb   # Main notebook
-│── data/               # Dataset (if applicable)
-│── models/             # Trained models
-│── results/            # Output predictions & insights
 │── README.md           # Project documentation
 │── images/             # Folder for images & visualizations
 
